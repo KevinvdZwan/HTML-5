@@ -1,0 +1,28 @@
+head {
+	background-color: black;
+}
+body {
+	background-color: white;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: Rockwell, Arial;
+	font-size: 40pt;
+}
+
+table {
+	border: 5px dotted yellow;
+	font-size: 26pt;
+}
+
+border {
+	border: 3px double blue;
+	font-size: 23pt;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid black;
+}
+	

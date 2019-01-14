@@ -1,0 +1,30 @@
+h1 {
+	color: white;
+	font-size: 19pt;
+	font-family: Arial;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+h4 {
+	color: white;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-align: left;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+	cursor: help;
+}
+body {
+	background-color: red;
+}
+
