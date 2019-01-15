@@ -5,10 +5,8 @@ body {
 	background-color: white;
 }
 
-h1 {
-	font-weight: bold;
-	font-family: Rockwell, Arial;
-	font-size: 40pt;
+h1, h6, table {
+	color: green;
 }
 
 table {
