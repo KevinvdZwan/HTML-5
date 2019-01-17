@@ -1,6 +1,9 @@
 article {
 	background-color: #cccccc;
 	width: 300px;
+	padding: 10px;
+	margin: 20px;
+	border: 5px solid black;
 }
 
 #afbeelding {
@@ -8,4 +11,6 @@ article {
 	height: 200px;
 }
 
-	
+footer p {
+	color: blue;
+}
