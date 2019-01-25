@@ -1,0 +1,31 @@
+* {
+  font-family: Verdana;
+  font-size: 14pt;
+}
+
+header {
+  background-color: #00c9fd;
+  width: 900px;
+}
+
+#wrapper {
+  width: 900px;
+  background-color: #ff3333;
+}
+
+nav {
+  background-color: #cccccc;
+  width: 900px;
+}
+
+article {
+  background-color: #cccccc
+}
+
+#contact {
+  background-color: #cccccc;
+}
+
+footer {
+  background-color: #00c9fd;
+}
